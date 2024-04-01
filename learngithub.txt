@@ -8,4 +8,6 @@ Author: Jeeva
 
 3.Attachment screen
 
-4.Delete Page
+4.Last seen Code
+
+5.Hiding the last seen Code
